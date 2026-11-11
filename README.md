@@ -16,4 +16,4 @@ Um agente para ajudar a **diluir qualquer preço**, ajudando o cliente e o vende
 - Python e IA aplicada
 
 ## 📫 Onde me encontrar
-- YouTube: @marciosmilitaoo
+- Instagram: @marciomilitao.O
